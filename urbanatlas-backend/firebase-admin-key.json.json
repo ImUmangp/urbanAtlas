@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "urbanatlas-d20a4",
+  "private_key_id": "a54c17054cc04d817486a943310f27bb1cb71001",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC7ZN0yRKj1+dZr\nejB5M2GhTU5buTpKF4JzNL/rJcjKJZCRrBMBLx3qWAFGKO+hNPkTlGfQFCSpjXuM\nL+JIhz36ZiKNDmgNU7+46L5icvAkaDyHhAWoqEMFHqXQgPyICt1w8UbEVdiZNuRw\nhJDIdg/ZinF1t9Q7/8Knd0e9jJb5Xfxhbs+SZRSQKmiBZTfK/2FX353L52enhVCm\nIyfjhHaf+1uuEczGc6fLMvEpxJ5RhJQ2yccNfQFhOAK7CvEOsWs2ZEpS3ZveKwKF\nzQm+zqrni5ZBMFjIsDXrf52xPxw/im8iUCLBtARANrYZNRL14USl+CxSrSt25efS\n0gbbtUd9AgMBAAECggEAIYTUpfmvCTRznIziH8PHik0kH3b9zKPw4v+D9qEvDa1z\ncwMG8TbG0JSGQdDvr/OkO9LXUNpRhnx2pWgpPxTlyqS7OGTjysJ4sC/9YemyN6jn\nbsv4ISdbuY42VZnE0eaznlCh+ltqn1k4ukGUDi9D/YLscYR8s3C3ljHZRLfhh1/w\ndCwz8jhr91ZvWj15GjKCmvgr8qyXLMg8wEmKPCxYlfkP3zgLbjbs4wJ3DqC2IeFs\nHDc8qvbYButxfFLGqbB2Tk1HiFyJVNxBk22/m0bNpFHty9G3Rl3QvjSTASJvJo8o\nlUbs0wJJw4/DQgHYM8ui4K02/LVXQ5N/WZw0cpUcYQKBgQDgizsWhr9csgu1UXOn\n9gzyPAE/1lTPAmrhePmN3UWg9VXjAw3oLBBaZz789SYJdi5foXAnG9kdu8oOL4Cj\ns4fx+0MforMOiM8o+RPulmouMgKmyUE/mciVaiteHN3vhNY/OVf0sk1AiBeFYIzL\nwiC84MrDWbwGED3MoppOElSrUQKBgQDVpVXXuBjCMQgHEIWj4vnGqMN5k8TOUMEr\nWJIeluPUHrmQ5wdfeIqnHV0dcfq2Nn0h6Jnokue68dewCxTVgg2pm6oCakgxhDBv\nwr56QJdk5EdBCktXa7Nl7y4SAmQ/aYNXs2688yxDulwUXoc7baCQ73y2YU+pvkFm\n7qsuDWF2bQKBgQDTee3VgmTaDYm/ZA4UQ0TgIyleESNgr7svzXrjZGF+fXE9U5QW\ndOGV8yU8ojoHsTltsaLqAm1SdpmPEKgMBTrk6SrHsbkH2EubIDLogttP1KPwpxz/\npHtoVUyw32kaezY4523yNLdTLplQcaVJBfVFTkVJBMtzvnolr4K6QsNhcQKBgCx1\neYWok85lcaw2rfjK1PuYRwVX0M62U1x31AB1mfecZTVYPlqJtSDNpYDpJSkh8axK\nwSx61ao7hYzm4XEE3V78O8bA40EapxG6zvSV2GtwbbuFLuSETxLZURcCVGY1yNVJ\nS7QaTo3RjDPY7/9X8t/2VleFrJRAOU/4PrsYob2JAoGAcphXXHo3kIKYsQeE3jFV\nSjhnDnj5WrxkYUkmf9LEs6kNGhKroikzW9/96RPH7Xaso8xo8NUU5GrJDyQIt/yJ\n5AhFlhXimxskKCd27VMS7CC9G+1DATNsGbqdQS1FV6fCPuuR0rLibFWiYLT2sTTj\nb0P72onaua8EmHSHgP+eSbA=\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-fbsvc@urbanatlas-d20a4.iam.gserviceaccount.com",
+  "client_id": "101941426358986749579",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-fbsvc%40urbanatlas-d20a4.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
